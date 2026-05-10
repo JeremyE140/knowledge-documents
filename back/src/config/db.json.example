@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "path" : "/un/chemin",
+        "name" : "AWS",
+        "keywords" : ["Mot-clé", "MonMotClé"]
+        "type" : "texte"
+    },
+    {
+        "id" : 2,
+        "path" : "/un/autre/chemin",
+        "name" : "EC2"
+        "keywords" : ["Mot-clé"]
+        "type" : "pdf"
+    }
+    
+]

@@ -1,0 +1,11 @@
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-core
+chromadb
+FlagEmbedding
+pymupdf
+requests
+fastapi
+uvicorn[standard]
+pydantic
